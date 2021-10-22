@@ -1,1 +1,1 @@
-alert(Tudo certo!)
+alert("Tudo certo!")
