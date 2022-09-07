@@ -1,0 +1,15 @@
+E:\Projetos\Arquivos\Introdução as IDEs e configuração de ambiente .Net\bin\Debug\net6.0\Introdução as IDEs e configuração de ambiente .Net.exe
+E:\Projetos\Arquivos\Introdução as IDEs e configuração de ambiente .Net\bin\Debug\net6.0\Introdução as IDEs e configuração de ambiente .Net.deps.json
+E:\Projetos\Arquivos\Introdução as IDEs e configuração de ambiente .Net\bin\Debug\net6.0\Introdução as IDEs e configuração de ambiente .Net.runtimeconfig.json
+E:\Projetos\Arquivos\Introdução as IDEs e configuração de ambiente .Net\bin\Debug\net6.0\Introdução as IDEs e configuração de ambiente .Net.dll
+E:\Projetos\Arquivos\Introdução as IDEs e configuração de ambiente .Net\bin\Debug\net6.0\Introdução as IDEs e configuração de ambiente .Net.pdb
+E:\Projetos\Arquivos\Introdução as IDEs e configuração de ambiente .Net\obj\Debug\net6.0\Introdução as IDEs e configuração de ambiente .Net.csproj.AssemblyReference.cache
+E:\Projetos\Arquivos\Introdução as IDEs e configuração de ambiente .Net\obj\Debug\net6.0\Introdução as IDEs e configuração de ambiente .Net.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Arquivos\Introdução as IDEs e configuração de ambiente .Net\obj\Debug\net6.0\Introdução as IDEs e configuração de ambiente .Net.AssemblyInfoInputs.cache
+E:\Projetos\Arquivos\Introdução as IDEs e configuração de ambiente .Net\obj\Debug\net6.0\Introdução as IDEs e configuração de ambiente .Net.AssemblyInfo.cs
+E:\Projetos\Arquivos\Introdução as IDEs e configuração de ambiente .Net\obj\Debug\net6.0\Introdução as IDEs e configuração de ambiente .Net.csproj.CoreCompileInputs.cache
+E:\Projetos\Arquivos\Introdução as IDEs e configuração de ambiente .Net\obj\Debug\net6.0\Introdução as IDEs e configuração de ambiente .Net.dll
+E:\Projetos\Arquivos\Introdução as IDEs e configuração de ambiente .Net\obj\Debug\net6.0\refint\Introdução as IDEs e configuração de ambiente .Net.dll
+E:\Projetos\Arquivos\Introdução as IDEs e configuração de ambiente .Net\obj\Debug\net6.0\Introdução as IDEs e configuração de ambiente .Net.pdb
+E:\Projetos\Arquivos\Introdução as IDEs e configuração de ambiente .Net\obj\Debug\net6.0\Introdução as IDEs e configuração de ambiente .Net.genruntimeconfig.cache
+E:\Projetos\Arquivos\Introdução as IDEs e configuração de ambiente .Net\obj\Debug\net6.0\ref\Introdução as IDEs e configuração de ambiente .Net.dll
