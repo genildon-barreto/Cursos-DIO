@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa_5", "Programa_5\5- Conhecendo a Organização de um Programa.csproj", "{54A37C99-969D-4CFB-8F0E-C90D7EB8DC18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programa_5.Common", "Programa_5.Common\Programa_5.Common.csproj", "{292885D9-9093-462A-9B92-2FB2D8079D94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54A37C99-969D-4CFB-8F0E-C90D7EB8DC18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A37C99-969D-4CFB-8F0E-C90D7EB8DC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A37C99-969D-4CFB-8F0E-C90D7EB8DC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A37C99-969D-4CFB-8F0E-C90D7EB8DC18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{292885D9-9093-462A-9B92-2FB2D8079D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{292885D9-9093-462A-9B92-2FB2D8079D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{292885D9-9093-462A-9B92-2FB2D8079D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{292885D9-9093-462A-9B92-2FB2D8079D94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

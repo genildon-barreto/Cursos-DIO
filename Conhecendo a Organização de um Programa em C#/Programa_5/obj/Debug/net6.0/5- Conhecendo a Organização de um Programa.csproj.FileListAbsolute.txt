@@ -1,0 +1,18 @@
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5\bin\Debug\net6.0\5- Conhecendo a Organização de um Programa.exe
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5\bin\Debug\net6.0\5- Conhecendo a Organização de um Programa.deps.json
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5\bin\Debug\net6.0\5- Conhecendo a Organização de um Programa.runtimeconfig.json
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5\bin\Debug\net6.0\5- Conhecendo a Organização de um Programa.dll
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5\bin\Debug\net6.0\5- Conhecendo a Organização de um Programa.pdb
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5\bin\Debug\net6.0\Programa_5.Common.dll
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5\bin\Debug\net6.0\Programa_5.Common.pdb
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5\obj\Debug\net6.0\5- Conhecendo a Organização de um Programa.csproj.AssemblyReference.cache
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5\obj\Debug\net6.0\5- Conhecendo a Organização de um Programa.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5\obj\Debug\net6.0\5- Conhecendo a Organização de um Programa.AssemblyInfoInputs.cache
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5\obj\Debug\net6.0\5- Conhecendo a Organização de um Programa.AssemblyInfo.cs
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5\obj\Debug\net6.0\5- Conhecendo a Organização de um Programa.csproj.CoreCompileInputs.cache
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5\obj\Debug\net6.0\5- Conhecendo a Organização de um Programa.csproj.CopyComplete
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5\obj\Debug\net6.0\5- Conhecendo a Organização de um Programa.dll
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5\obj\Debug\net6.0\refint\5- Conhecendo a Organização de um Programa.dll
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5\obj\Debug\net6.0\5- Conhecendo a Organização de um Programa.pdb
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5\obj\Debug\net6.0\5- Conhecendo a Organização de um Programa.genruntimeconfig.cache
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5\obj\Debug\net6.0\ref\5- Conhecendo a Organização de um Programa.dll

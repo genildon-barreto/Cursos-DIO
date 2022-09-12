@@ -1,0 +1,12 @@
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5.Common\bin\Debug\net6.0\Programa_5.Common.deps.json
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5.Common\bin\Debug\net6.0\Programa_5.Common.dll
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5.Common\bin\Debug\net6.0\Programa_5.Common.pdb
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5.Common\obj\Debug\net6.0\Programa_5.Common.csproj.AssemblyReference.cache
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5.Common\obj\Debug\net6.0\Programa_5.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5.Common\obj\Debug\net6.0\Programa_5.Common.AssemblyInfoInputs.cache
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5.Common\obj\Debug\net6.0\Programa_5.Common.AssemblyInfo.cs
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5.Common\obj\Debug\net6.0\Programa_5.Common.csproj.CoreCompileInputs.cache
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5.Common\obj\Debug\net6.0\Programa_5.Common.dll
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5.Common\obj\Debug\net6.0\refint\Programa_5.Common.dll
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5.Common\obj\Debug\net6.0\Programa_5.Common.pdb
+E:\Projetos\Arquivos\C#\5- Conhecendo a Organização de um Programa\Programa_5.Common\obj\Debug\net6.0\ref\Programa_5.Common.dll
