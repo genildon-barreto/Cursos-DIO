@@ -1,0 +1,15 @@
+E:\Projetos\Arquivos\C#\7- Comentários e Boas Práticas\Programa_7\obj\Debug\net6.0\Programa_7.csproj.AssemblyReference.cache
+E:\Projetos\Arquivos\C#\7- Comentários e Boas Práticas\Programa_7\obj\Debug\net6.0\Programa_7.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Arquivos\C#\7- Comentários e Boas Práticas\Programa_7\obj\Debug\net6.0\Programa_7.AssemblyInfoInputs.cache
+E:\Projetos\Arquivos\C#\7- Comentários e Boas Práticas\Programa_7\obj\Debug\net6.0\Programa_7.AssemblyInfo.cs
+E:\Projetos\Arquivos\C#\7- Comentários e Boas Práticas\Programa_7\obj\Debug\net6.0\Programa_7.csproj.CoreCompileInputs.cache
+E:\Projetos\Arquivos\C#\7- Comentários e Boas Práticas\Programa_7\bin\Debug\net6.0\Programa_7.exe
+E:\Projetos\Arquivos\C#\7- Comentários e Boas Práticas\Programa_7\bin\Debug\net6.0\Programa_7.deps.json
+E:\Projetos\Arquivos\C#\7- Comentários e Boas Práticas\Programa_7\bin\Debug\net6.0\Programa_7.runtimeconfig.json
+E:\Projetos\Arquivos\C#\7- Comentários e Boas Práticas\Programa_7\bin\Debug\net6.0\Programa_7.dll
+E:\Projetos\Arquivos\C#\7- Comentários e Boas Práticas\Programa_7\bin\Debug\net6.0\Programa_7.pdb
+E:\Projetos\Arquivos\C#\7- Comentários e Boas Práticas\Programa_7\obj\Debug\net6.0\Programa_7.dll
+E:\Projetos\Arquivos\C#\7- Comentários e Boas Práticas\Programa_7\obj\Debug\net6.0\refint\Programa_7.dll
+E:\Projetos\Arquivos\C#\7- Comentários e Boas Práticas\Programa_7\obj\Debug\net6.0\Programa_7.pdb
+E:\Projetos\Arquivos\C#\7- Comentários e Boas Práticas\Programa_7\obj\Debug\net6.0\Programa_7.genruntimeconfig.cache
+E:\Projetos\Arquivos\C#\7- Comentários e Boas Práticas\Programa_7\obj\Debug\net6.0\ref\Programa_7.dll
